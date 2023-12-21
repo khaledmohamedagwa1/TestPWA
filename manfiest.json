@@ -5,7 +5,7 @@
     "start_url" :"/" ,
     "theme_color":"#2196f3" ,
     "background_color":"#2196f3",
-    "scope":"/",
+    "scope":"https://khaledmohamedagwa1.github.io/TestPWA/",
     "orientation": "any",
     "lang": "en-us",
     "icons": [
