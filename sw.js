@@ -1,4 +1,4 @@
-const CACHE_NAME = `temp-v2`;
+const CACHE_NAME = `temp-v3`;
 const Dynamic_Cache ="dyanmicCache"
 const assets =[
     "/" ,
